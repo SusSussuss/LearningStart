@@ -5,7 +5,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("bgdfb");
+            Console.WriteLine("bgerghergdfb");
             Console.ReadLine();
         }
     }
